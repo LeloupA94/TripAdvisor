@@ -363,7 +363,6 @@ h1 + p {
   flex: 3;
   gap: 15px;
   overflow-x: scroll;
-  scrollbar-width: none;
 }
 
 .partie-1 .gallerie,
